@@ -1,0 +1,9 @@
+body {
+	background: url(img/background.jpg) no-repeat fixed;
+	background-size: cover;
+}
+canvas {
+	display: block;
+	margin: 40px auto;
+	border-radius: 30px;
+}
