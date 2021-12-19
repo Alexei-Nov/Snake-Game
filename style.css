@@ -4,6 +4,6 @@ body {
 }
 canvas {
 	display: block;
-	margin: 40px auto;
+	margin: 20px auto;
 	border-radius: 30px;
 }
